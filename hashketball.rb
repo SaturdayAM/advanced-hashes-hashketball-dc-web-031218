@@ -119,6 +119,7 @@ end
 
 def num_points_scored(name)
   game_hash.each do |team, data|
+    binding.pry
     data.each do |element|
       if element == :players
         element.each do |player|

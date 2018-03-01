@@ -129,5 +129,4 @@ def num_points_scored(name)
       end #endif
     end #end do
   end #end do
-    nil
 end

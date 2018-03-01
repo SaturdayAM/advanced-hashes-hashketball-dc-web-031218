@@ -131,3 +131,5 @@ def num_points_scored(name)
     end #end do
   end #end do
 end
+
+num_points_scored("Jeff Adrien")
